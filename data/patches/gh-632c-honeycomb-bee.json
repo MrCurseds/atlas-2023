@@ -1,0 +1,47 @@
+{
+	"id": -1,
+	"name": "Honeycomb Bee",
+	"description": "A Minecraft Bee made by the Honeycomb SMP",
+	"links": {
+		"subreddit": [
+			"TheHoneycombSMP"
+		],
+		"discord": [
+			"mC3vqeUP"
+		]
+	},
+	"path": {
+		"233-256": [
+			[
+				1449,
+				-176
+			],
+			[
+				1449,
+				-176
+			],
+			[
+				1449,
+				-176
+			],
+			[
+				1457,
+				-176
+			],
+			[
+				1457,
+				-164
+			],
+			[
+				1449,
+				-164
+			]
+		]
+	},
+	"center": {
+		"233-256": [
+			1453,
+			-170
+		]
+	}
+}
